@@ -1,0 +1,605 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"PA",
+				"padding-left"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"a",
+				"text-align"
+			],
+			[
+				"m",
+				"method	Attr"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"coordenada",
+				"coordenadaX"
+			],
+			[
+				"ti",
+				"tifisY"
+			],
+			[
+				"tif",
+				"tifisX"
+			],
+			[
+				"coo",
+				"coordenadaY"
+			],
+			[
+				"coor",
+				"coordenadaX"
+			],
+			[
+				"txt",
+				"txtX"
+			],
+			[
+				"ge",
+				"generarNumeroAleatorio"
+			],
+			[
+				"ob",
+				"objetoRandom"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"Clas",
+				"ClassRandonNumber"
+			],
+			[
+				"resu",
+				"resultadoJuego"
+			],
+			[
+				"re",
+				"resultadoJuego"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"arr",
+				"arregloPistaPalabras"
+			],
+			[
+				"vali",
+				"validarJuegoGanado"
+			],
+			[
+				"va",
+				"validarJuegoGanado"
+			],
+			[
+				"espa",
+				"espacio"
+			],
+			[
+				"i",
+				"intentos"
+			],
+			[
+				"arre",
+				"arregloPistaPalabras"
+			],
+			[
+				"VA",
+				"value"
+			],
+			[
+				"TE",
+				"textContent"
+			],
+			[
+				"con",
+				"contadorGral"
+			],
+			[
+				"conta",
+				"contadorGral"
+			],
+			[
+				"el",
+				"elemento"
+			],
+			[
+				"contad",
+				"contador"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"dibu",
+				"dibujarAhorcado"
+			],
+			[
+				"v",
+				"vivo"
+			],
+			[
+				"es",
+				"espacio"
+			],
+			[
+				"te",
+				"textContent"
+			],
+			[
+				"esp",
+				"espacio"
+			],
+			[
+				"lo",
+				"longitudPalabra"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"paa",
+				"palabraTmp"
+			],
+			[
+				"com",
+				"componente"
+			],
+			[
+				"tx",
+				"txtPista"
+			],
+			[
+				"pala",
+				"palabraTmp"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"pal",
+				"palabraTmp"
+			],
+			[
+				"g",
+				"globalChar"
+			],
+			[
+				"est",
+				"estadoBusqueda"
+			],
+			[
+				"p",
+				"prototype"
+			],
+			[
+				"conte",
+				"contenidoLetra"
+			],
+			[
+				"bo",
+				"botonClickLetra"
+			],
+			[
+				"se",
+				"seleccionMaquina"
+			],
+			[
+				"sele",
+				"seleccionUsuario"
+			],
+			[
+				"ma",
+				"matrizNombreElementos"
+			],
+			[
+				"res",
+				"resultadoJuego"
+			],
+			[
+				"sle",
+				"seleccionUsuario"
+			],
+			[
+				"fila",
+				"filaMinas3"
+			],
+			[
+				"cara",
+				"caracter"
+			],
+			[
+				"pos",
+				"posy"
+			],
+			[
+				"mo",
+				"mostrarMatrizEnIncognitas"
+			],
+			[
+				"po",
+				"posy"
+			],
+			[
+				"pr",
+				"primerVez"
+			],
+			[
+				"fi",
+				"filaTest1"
+			],
+			[
+				"matriz",
+				"matrizIncognita"
+			],
+			[
+				"funcio",
+				"function"
+			],
+			[
+				"numero",
+				"numeroTest"
+			],
+			[
+				"nu",
+				"numeroTest"
+			],
+			[
+				"matr",
+				"matriz2"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"SE",
+				"SECTION	Tag"
+			],
+			[
+				"vi",
+				"vidasPokemon1"
+			],
+			[
+				"vidas",
+				"vidasPokemon2"
+			],
+			[
+				"n",
+				"nombre"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"N",
+				"NAV	Tag"
+			],
+			[
+				"HE",
+				"HEADER	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Documents/MEJORANDOLA/DISEÑO_WEB/clase1/mejorandoweb/4g-clase4/estilos.css",
+		"/C/Users/User/Documents/MEJORANDOLA/DESARROLLO_WEB/CLASE3_NOCHE/taller1/index.html",
+		"/C/Users/User/Documents/MEJORANDOLA/DESARROLLO_WEB/CLASE3_NOCHE/taller1/estilos",
+		"/C/Users/User/Documents/PRODUCTOS MEJORANDOLA/fuentes/fuenteLegible/OFL.txt",
+		"/C/Users/User/Documents/MEJORANDOLA/DISEÑO_WEB/clase1/mejorandoweb/4g-clase4/index.html",
+		"/C/Users/User/Documents/MEJORANDOLA/DISEÑO_WEB/clase1/mejorandoweb/4g-clase4/formulario.js",
+		"/C/Users/User/Documents/MEJORANDOLA/DESARROLLO_WEB/CLASE3_NOCHE/index.html",
+		"/C/Users/User/Documents/MEJORANDOLA/DESARROLLO_WEB/CLASE1_NOCHE/clases.desarrollo-web (1).zip",
+		"/C/Users/User/Documents/PRODUCTOS MEJORANDOLA/fuentes/web fonts/opensans_regular_macroman/stylesheet.css",
+		"/C/Users/User/Documents/MEJORANDOLA/DISEÑO_WEB/clase1/mejorandoweb/4g-clase2/europa/estilos.css",
+		"/C/Users/User/Documents/MEJORANDOLA/DISEÑO_WEB/clase1/mejorandoweb/4g-clase2/america/estilos.css",
+		"/C/Users/User/Documents/MEJORANDOLA/DISEÑO_WEB/clase1/mejorandoweb/clase2/reglas.ESENSERIO.txt",
+		"/C/Users/User/Documents/MEJORANDOLA/DISEÑO_WEB/clase4/index.html",
+		"/C/Users/User/Documents/MEJORANDOLA/DISEÑO_WEB/clase4/estilos.css",
+		"/C/Users/User/Documents/Enlaces_interes/enlaces Interesantes",
+		"/C/jboss-5.1.0.GA_PruebaHogar_pryCargueArchivos/server/default/deploy/oracle-ds.xml",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/juego_01/js/juego01Controller.js",
+		"/C/Users/User/Documents/GitHub/tareasMejorandola/PROGRAMACION_BASICA/HTML/pageExample.html",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/campoMinado/css/styleCampoMinado.css",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/juego_01/indexGame.html",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/juego_01/css/styleJuego01.css",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/pokemon/pokemon.html",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/pokemon/js/pokemonController.js",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/campoMinado/indexCampoMinado.html",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/campoMinado/js/CampoMinadoController.js",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/juego_03pptls/js/pptlsController.js",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/juego_03pptls/indexJuego03.html",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/juego_02_ahorcado/js/ahorcadoController.js",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/juego_02_ahorcado/js/test.js",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas_compañeros/tarea_comp_poke/pokeke.js",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/juego_03_piedraPapelTijeraLS/js/Juego03Controller.js",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/juego_03_pptjs/js/Juego03Controller.js",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/juego_03_piedraPapelTijeraLS/css/estiloPageJuego03.css",
+		"/C/Users/User/Documents/MEJORANDOLA/PROGRAMACION_BASICA/tareas/juego_03_piedraPapelTijeraLS/indexJuego03.html",
+		"/C/Users/User/Documents/GitHub/piedraPapelTijeraRepo/juego_03_piedraPapelTijeraLS/indexJuego03.html",
+		"/C/wamp/apps/phpmyadmin3.3.9/config.inc.php",
+		"/C/Users/User/Documents/proyectos home/Proyecto control de estudiantes/bd _estudiantes",
+		"/C/Users/User/Desktop/claveProteccion/Controller",
+		"/C/Users/User/Desktop/claveProteccion/ATT00002",
+		"/C/Users/User/Desktop/claveProteccion/clave0.240899142146190573421280892265739996.pdf",
+		"/C/Users/User/Desktop/PagedList.Mvc.4.5.0.0/lib/net40/PagedList.Mvc.dll"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"		\n",
+			"contenido",
+			"link1",
+			"cajaMenu1",
+			"textoContenido",
+			"desabilitarCaja",
+			"datosGenerales",
+			"datosPeleaPokemones",
+			"temporizar",
+			"temporizarTropelPokemones",
+			"moduloCoordenadas",
+			"PANTALLA",
+			"1px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "freddier.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
