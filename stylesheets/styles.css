@@ -1,6 +1,7 @@
 body
 {
- background: rgb(22, 21, 20);
+ background: #2F3535;
+ /* rgb(22, 21, 20); */
  font-size: 16px;
 }
 
@@ -28,8 +29,10 @@ ul li a p
 {
   width: 75%;
   list-style-type: none;
-  background: #E94016;
-  border-bottom: solid thin white;
+  /*  modificacion del color de fondodel menu ppal   */
+  background: #E82C21;
+  border-bottom: solid thin #F0F0ED;
+  border-radius : 1em;
   padding: .3em 1em .3em;
   text-decoration: none;
   color: white;
@@ -55,14 +58,14 @@ h3
   font-size: 13px;
   line-height: 32px;
   border-bottom: 1px #eee solid;
-  color: #FFF7F7;
+  color: gray;
   margin-bottom: 2.5em;
   padding-bottom: .5em;
 }
 
 header.sidebar
 {
-  background-color: #EEEEEE;
+  background-color: white;/*#F8EAFC;*/
   width: 30%;
   background-size: cover;
   display: inline-block;
@@ -70,11 +73,12 @@ header.sidebar
   position: absolute;
   bottom: 0;
   top: 0;
+  border-radius : .6em;
 }
 
 section.sidebar_information
 {
-  color: white;
+  color: red;
 }
 
 div.sidebar_userimage
@@ -92,7 +96,7 @@ div.sidebar_userimage
 div.sidebar_userimage img
 {
 
-  border-radius: 39px;
+  border-radius: 50px;
   width: 75px;
   padding: 7px;
   border: 1px solid #ccc; 
@@ -101,10 +105,11 @@ div.sidebar_userimage img
 div.comunidad-autoria
 {
   border-bottom: solid 1px white;
-  background: black;
-  border-top: solid 1px white;
+  background: #E82C21;
+  border-top: solid 4px white;
   padding: 3% 0;
   margin: 12% 0;
+  border-radius : .25em;
 }
 
 div.logo
@@ -131,6 +136,7 @@ padding: 0;
 margin: 0% 33%;
 font-size: 15px;
 text-align: center;
+
 }
 
 div.nombre p
@@ -140,6 +146,7 @@ div.nombre p
 
 div.layout-principal
 {
+  border-radius : 1em;
   position: absolute; 
   top: 0; 
   right: 0; 
