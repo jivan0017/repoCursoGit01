@@ -92,7 +92,7 @@ div.sidebar_userimage
 div.sidebar_userimage img
 {
 
-  border-radius: 26px;
+  border-radius: 39px;
   width: 75px;
   padding: 7px;
   border: 1px solid #ccc; 
@@ -118,7 +118,7 @@ div.logo
 div.logo img
 {
   width: 45px;
-  border-radius: 45px;
+  border-radius: 65px;
   padding: 0;
   margin: 0;
 }
