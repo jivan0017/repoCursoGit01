@@ -12,31 +12,63 @@ a
 
 ul
 {
+  padding : .25em, .25em;
   margin: 20% 0 0% 0%;
+  /* Color de fondo del contenedor de items*/
+  background-color : #E8E8E6;
+  padding : .6%
 }
 
 ul li
 {
   list-style: none;
+  background-color : #F7F7F5;
+
 }
 
 ul li a
 {
  text-decoration: none; 
+ /*background-color : yellow;*/
+
 }
+
+/*
+ul li a p:before{
+    border-bottom: 4px solid thin white;
+}*/
 
 ul li a p
 {
   width: 75%;
   list-style-type: none;
   /*  modificacion del color de fondodel menu ppal   */
-  background: #E82C21;
-  border-bottom: solid thin #F0F0ED;
-  border-radius : 1em;
-  padding: .3em 1em .3em;
+  background: #fc0040;
+  border-bottom: solid thin #2F3535;
+  border-radius : 0em  .99em 0em 0em;
+  padding: .7em 1em .3em;
   text-decoration: none;
   color: white;
   font-size: 13px;
+  /*  linea vertical pequeÃƒÆ’Ã‚Â±a por cada boton */
+  margin-left: 1px;
+
+  
+    border-bottom:  1px blue;  /*comenzaba en solid*/
+    border-left : 9px solid grey;
+   margin-bottom: 0px;
+box-shadow: 1px 4px 2px #535;
+-webkit-transition:.4s;
+
+}
+ul li a p:hover
+{
+  /*Color de fonddo del  boton*/
+  background-color : rgba(250, 206, 217, 1);/*#C4C4C2;*/
+  /*Color de fondo de la letra*/
+  color : black;
+  border-left : 4px dotted #787877;
+  font-size: 15px;
 }
 
 
@@ -44,12 +76,19 @@ h1
 {
   padding-bottom: 2em;
   border-bottom: none;
-  font-size: 16px;
+  font-size: 75%;
   margin: 0;
   padding: 5px 0 .3em;
   line-height: 32px;
   text-align: center;
   color: black;
+}
+
+h1.sidebar_information_title {
+  color : black;
+  font-size: 17px;
+  text-shadow: 0px 2px 2px #535;
+
 }
 
 h3
@@ -73,18 +112,24 @@ header.sidebar
   position: absolute;
   bottom: 0;
   top: 0;
-  border-radius : .6em;
+  border-radius : 1em .93em 0em 0em;
+  border-top : 2px solid #fc0040;
+  border-left : 1px solid grey;
+  border-bottom : 3px solid grey;
 }
 
 section.sidebar_information
 {
   color: red;
 }
+section.div.ul {
+  background-color : blue;
+}
 
 div.sidebar_userimage
 {
   cursor: pointer;
-  border-radius: 80px;
+  border-radius: 59px;
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0% 35% 0;
@@ -99,17 +144,23 @@ div.sidebar_userimage img
   border-radius: 50px;
   width: 75px;
   padding: 7px;
-  border: 1px solid #ccc; 
+  border: 5px solid #E3E3E1;
+  border-top : 4px solid #7D7D7C; 
+  border-left : 5px;
+  border-bottom: 1px solid rgba(252,0,64, .89);
 }
 
 div.comunidad-autoria
 {
-  border-bottom: solid 1px white;
-  background: #E82C21;
+  border-bottom: solid 3px #787877;
+  background: rgba(252,0,64, .89); /* #FC0040;*/
   border-top: solid 4px white;
-  padding: 3% 0;
-  margin: 12% 0;
-  border-radius : .25em;
+  padding: 2% 0;
+  margin: 3% 0;
+  border-radius : .1em .97em 0em 0em;
+  margin-bottom : 1px;
+  border-top :  1px;
+  
 }
 
 div.logo
@@ -130,10 +181,10 @@ div.logo img
 
 div.nombre
 {
-display: inline-block;
+/* display:  block; *//* inline-block; */
 vertical-align: top;
 padding: 0;
-margin: 0% 33%;
+margin: 0% 11%;
 font-size: 15px;
 text-align: center;
 
@@ -153,7 +204,7 @@ div.layout-principal
   bottom: 0;  
   overflow-x: auto;
   width: 55%;
-  padding: 0% 6.5%;
+  padding: 0% 9.5%;
 }
 
 div.bloque
